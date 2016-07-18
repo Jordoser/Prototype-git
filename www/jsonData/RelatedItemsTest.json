@@ -1,0 +1,26 @@
+{
+  "RelatedObject1": {
+    "Id": "1",
+    "UserId" : "1",
+    "Name": "Related 1",
+    "Description": "This is the first Related object it is releated to the first object"
+  },
+  "RelatedObject2": {
+    "Id": "2",
+    "UserId" : "1",
+    "Name": "Related 2",
+    "Description": "This is the second Related object it is releated to the first object"
+  },
+  "RelatedObject3": {
+    "Id": "3",
+    "UserId" : "2",
+    "Name": "Related 3",
+    "Description": "This is the third Related object it is releated to the second object"
+  },
+  "RelatedObject4": {
+    "Id": "4",
+    "UserId" : "3",
+    "Name": "Related 4",
+    "Description": "This is the fourth Related object it is releated to the third object"
+  }
+}
